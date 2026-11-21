@@ -1,0 +1,6 @@
+# Everyone, including search engines and AI assistants, may read the whole site.
+# (To block specific AI crawlers later, add a "User-agent" block for each one here.)
+User-agent: *
+Allow: /
+
+Sitemap: https://gabrielthomasjacobs.github.io/monument-escrow/sitemap.xml

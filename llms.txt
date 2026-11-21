@@ -1,0 +1,31 @@
+# Monument Escrow, Inc.
+
+> Locally owned escrow company with offices in Modesto and Fresno, California. Meet our escrow officers, open an escrow, and find our office hours and locations.
+
+Locally owned in Modesto, California. We guide buyers, sellers and lenders through every step of the closing, with clear answers and a real person to call.
+
+## Offices
+- Modesto Office: 515 Lyell Drive, Suite 102, Modesto, CA 95356. Phone 209-526-5356. Hours: Monday to Friday, 9:00 am to 5:00 pm. Closed weekends.
+- Fresno Office: 7395 N. Palm Bluffs Ave., Suite 104, Fresno, CA 93711. Phone 559-354-2760. Hours: Monday to Friday, 9:00 am to 5:00 pm. Closed weekends.
+
+## Escrow officers
+- Traci Lopez, Branch Manager / Sr. Escrow Officer (Fresno Office): tlopez@monumentescrow.com, Office 559-354-2760, Cell 209-404-9184
+- Beth Terry, Senior Escrow Officer (Modesto Office): beth@monumentescrow.com, Work 209-526-5356
+- Adrienne Ripley, Escrow Officer (Fresno Office): aripley@monumentescrow.com, Office 559-354-2760
+- Sharleen Jacobs, Marketing Representative / Escrow Assistant (Modesto Office): sharleen@monumentescrow.com, Office 209-526-5356, Call/text 209-496-1000
+
+## Services
+- Residential Resale
+- Refinance
+- Private Financing
+- 1031 Exchange
+- Short Sales
+- Probate Sales
+- Seller Carry Back
+- All Inclusive Trust Deeds
+
+## Pages
+- [Home](https://gabrielthomasjacobs.github.io/monument-escrow/)
+- [About us](https://gabrielthomasjacobs.github.io/monument-escrow/about/)
+- [Escrow news](https://gabrielthomasjacobs.github.io/monument-escrow/news/)
+- [Frequently asked questions](https://gabrielthomasjacobs.github.io/monument-escrow/faq/)
